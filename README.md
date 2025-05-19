@@ -1,41 +1,48 @@
-# 💰 Personal Expense Tracker
+# Personal Expense Tracker
 
-A web-based expense tracking application to help you manage your daily spending. Built with **Python**, **Pandas**, **SQLite**, and **Streamlit**, this tool enables you to record, categorize, and visualize expenses in real time.
-
----
-
-## 🚀 Features
-
-- ✅ Add and categorize expenses
-- 📊 View summarized expense reports
-- 📈 Visualize spending via interactive **bar** and **pie** charts
-- 💾 Data storage using **SQLite** for persistence
-- 🖥️ User-friendly web interface powered by **Streamlit**
+A simple and interactive Personal Expense Tracker built using Python, Pandas, SQLite, and Streamlit.  
+Track your daily expenses, categorize them, and visualize your spending habits with bar charts and pie charts.
 
 ---
 
-## 🛠 Tech Stack
+## Features
 
-- Python
-- Pandas
-- Streamlit
-- SQLite
-- Matplotlib / Seaborn
+- Add and categorize expenses with date, description, and amount  
+- View summary of total expenses  
+- Visualize expenses with bar plots and pie charts by category  
+- User-friendly web interface with Streamlit  
+- Persistent data storage using SQLite  
+
+---
+
+## Tech Stack
+
+- Python  
+- Pandas  
+- SQLite  
+- Streamlit  
+- Matplotlib & Seaborn (for visualizations)  
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🏠 Add Expense
-![Add Expense](assets/screenshots/home.png)
+![Home Screen](assets/screenshots/home.png)  
+*Home Screen: Add and view expenses*
 
-### 📊 Summary Report
-![Summary](assets/screenshots/summary.png)
+![Summary](assets/screenshots/summary.png)  
+*Summary of total expenses*
 
-### 📈 Bar Chart of Expenses
-![Bar Chart](assets/screenshots/barchart.png)
+![Bar Chart](assets/screenshots/barchart.png)  
+*Bar chart of expenses by category*
 
-### 🥧 Pie Chart of Expenses by Category
-![Pie Chart](assets/screenshots/piechart.png)
+![Pie Chart](assets/screenshots/piechart.png)  
+*Pie chart visualization of expenses*
 
 ---
+
+## Author
+
+**Shashidhar PB**  
+- LinkedIn: [https://www.linkedin.com/in/shashidharpb5](https://www.linkedin.com/in/shashidharpb5) (Username: shashidharpb5)  
+- GitHub: [https://github.com/Shashidharpb5](https://github.com/Shashidharpb5)  
