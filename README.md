@@ -1,58 +1,41 @@
+# 💰 Personal Expense Tracker
 
-# 💸 Personal Expense Tracker
+A web-based expense tracking application to help you manage your daily spending. Built with **Python**, **Pandas**, **SQLite**, and **Streamlit**, this tool enables you to record, categorize, and visualize expenses in real time.
 
-A simple, interactive application to track your daily expenses, visualize spending, and manage your budget — powered by **Python**, **Streamlit**, and **SQLite**.
+---
 
 ## 🚀 Features
 
-- Add new expenses (date, category, description, and amount)
-- View total expense summary
-- Visualize data using **bar charts** and **pie charts**
-- Lightweight and beginner-friendly GUI using Streamlit
+- ✅ Add and categorize expenses
+- 📊 View summarized expense reports
+- 📈 Visualize spending via interactive **bar** and **pie** charts
+- 💾 Data storage using **SQLite** for persistence
+- 🖥️ User-friendly web interface powered by **Streamlit**
 
-## 📷 Screenshots
+---
 
-*Add screenshots here later (optional)*
+## 🛠 Tech Stack
 
-## 🛠️ Technologies Used
-
-- Python 3.x
-- Streamlit
-- SQLite3
+- Python
 - Pandas
+- Streamlit
+- SQLite
 - Matplotlib / Seaborn
 
-## 🏁 Getting Started
+---
 
-### Prerequisites
+## 📸 Screenshots
 
-Make sure you have Python and Streamlit installed:
+### 🏠 Add Expense
+![Add Expense](assets/screenshots/home.png)
 
-```bash
-pip install streamlit pandas matplotlib
-```
+### 📊 Summary Report
+![Summary](assets/screenshots/summary.png)
 
-### Run the app
+### 📈 Bar Chart of Expenses
+![Bar Chart](assets/screenshots/barchart.png)
 
-```bash
-streamlit run streamlit_app.py
-```
+### 🥧 Pie Chart of Expenses by Category
+![Pie Chart](assets/screenshots/piechart.png)
 
-### Add Expenses from Web UI
-
-- Enter your expense details in the sidebar form.
-- Click on `Show Summary`, `Bar Plot`, or `Pie Chart` to visualize the data.
-
-## 📂 Project Structure
-
-```
-├── streamlit_app.py       # Main Streamlit UI file
-├── database.py            # Handles SQLite data operations
-├── expenses.db            # SQLite database
-├── README.md              # Project overview
-```
-
-## 🙋‍♂️ Author
-
-**Shashidhar P B**  
-[LinkedIn](https://www.linkedin.com/in/shashidharpb5) | [GitHub](https://github.com/shashidharpb5)
+---
